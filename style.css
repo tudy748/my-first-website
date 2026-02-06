@@ -14,3 +14,7 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+h2 {
+  margin-top: 40px;
+  color: #38bdf8;
+}
